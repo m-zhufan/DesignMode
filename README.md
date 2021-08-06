@@ -1,4 +1,6 @@
 # DesignMode
+
 design mode.
 
-c++/QtCreator
+Qt creator / C++
+
